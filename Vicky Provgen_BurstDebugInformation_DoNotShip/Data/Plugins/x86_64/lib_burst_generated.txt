@@ -146,17 +146,17 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Scheduler.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Registration.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
+--root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\NativeFilePicker.Runtime.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Device.dll
+--root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Threading.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Networking.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Configuration.dll
---root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
---root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\NativeFilePicker.Runtime.dll
 --assembly-folder=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -310,17 +310,17 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Scheduler.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Registration.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
+--root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\NativeFilePicker.Runtime.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Device.dll
+--root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Threading.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Networking.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
 --root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Unity.Services.Core.Configuration.dll
---root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
---root-assembly=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\NativeFilePicker.Runtime.dll
 --assembly-folder=C:\Users\Chase\Desktop\Unity Projects\Vicky Provgen\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
